@@ -41,12 +41,12 @@
 
 <li>
 <a href="https://linkedin.com/in/amanueltadele53" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=linkedin style="margin-bottom: 5px;margin-right:10px"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=linkedin style="margin-bottom: 5px;margin-right:10px;width:50px;height:50px"/>
 </a>
 </li>
 <li>
 <a href="https://t.me/el_amani" target="_blank">
-<img src="https://www.cdnlogo.com/logos/t/39/telegram.svg" alt=telegram style="margin-bottom: 5px;"/>
+<img src="https://www.cdnlogo.com/logos/t/39/telegram.svg" alt=telegram style="margin-bottom: 5px;width:50px;height:50px"/>
 </a>
 </li>
 </ul>
