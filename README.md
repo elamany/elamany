@@ -10,19 +10,18 @@
 - 📫 How to reach me:  [email](https://malto:ammanuael@gmail.com)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Languages, Tools & Skills</b>
-<p align="center">
-**
-    <img src="https://www.cdnlogo.com/logos/p/71/php.svg" width ="25" height="25">
-    <img src="https://www.cdnlogo.com/logos/j/22/java.svg" width ="25" height="25">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width ="25" height="25">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width ="25">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width ="25" height="25">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width ="25" height="25">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width ="25" height="25">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width ="25" height="25">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width ="25" height="25">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width ="25" height="25">
-    <img src="https://www.cdnlogo.com/logos/s/90/sass.svg" width ="25" height="25">
+<p align="left">
+    <img src="https://www.cdnlogo.com/logos/p/71/php.svg" width ="30" height="30">
+    <img src="https://www.cdnlogo.com/logos/j/22/java.svg" width ="30" height="30">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width ="30" height="30">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width ="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width ="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width ="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width ="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width ="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width ="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width ="30" height="30">
+    <img src="https://www.cdnlogo.com/logos/s/90/sass.svg" width ="30" height="30">
 </p>
     
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50">
