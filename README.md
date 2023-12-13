@@ -5,7 +5,6 @@
 </p>
 
 ## **About me**
-<br>
 - ⚡ A passionate Self-taught Front-end & Mobile App developer <br>
 - 📫 How to reach me:  [email](https://malto:ammanuael@gmail.com)
 
