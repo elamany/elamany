@@ -1,19 +1,16 @@
-### Hello there 👋 , I'm Amanuel T.
+### Hello there 👋 , I'm Amanuel T. 🧑🏽‍💻
 
 <p align="center">
   I am a Software Engineer with expertise in Full Stack Web Development and Mobile App Development. I love building innovative and impactful applications that solve real-world problems.
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-</br>
--⚡ A passionate Self-taught Front-end & Mobile App developer
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width =40px></picture> **About me**
+<br>
+- ⚡ A passionate Self-taught Front-end & Mobile App developer
 - 📫 How to reach me:  [email](https://malto:ammanuael@gmail.com)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Languages, Tools & Skills</b>
 <p align="center">
-  
-- **Languages, Tools & Skills**:
-  <br>
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![PHP](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -26,8 +23,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width ="25" height="25">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width ="25" height="25">
     <img src="https://cdnlogo.com/logo/sass_39548.html"><img src="https://www.cdnlogo.com/logos/s/90/sass.svg" width ="25" height="25">
+</p>
     
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50">
 <a href="https://linkedin.com/in/amanueltadele53" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" style="margin-bottom: 5px; margin-right: 10px; width: 25px; height: 25px;" />
     </a>
