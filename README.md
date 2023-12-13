@@ -1,4 +1,4 @@
-### <b>Hello there 👋 , I'm **Amanuel T.** 🧑🏽‍💻</b>
+### <b>Hello there 👋 , I'm <u><strong>Amanuel T.</strong> 🧑🏽‍💻</b>
 
 <p align="left">
   I am a Software Engineer with expertise in Full Stack Web Development and Mobile App Development. I love building innovative and impactful applications that solve real-world problems.
