@@ -6,7 +6,7 @@
 
 ## **About me**
 - ⚡ A passionate Self-taught Front-end & Mobile App developer <br>
-- 📫 How to reach me:  [email](https://malto:ammanuael@gmail.com)
+- 📫 How to reach me:  [ammanuael@gmail.com](https://malto:ammanuael@gmail.com)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Languages, Tools & Skills</b>
 <p align="left">
