@@ -25,11 +25,11 @@
 </p>
     
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50">
-<a href="https://linkedin.com/in/amanueltadele53" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" style="margin-bottom: 5px; margin-right: 10px; width: 25px; height: 25px;" />
+<a href="https://linkedin.com/in/amanueltadele53" target="_blank" style="margin-right: 5px;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" style="width: 25px; height: 25px;" />
     </a>
     <a href="https://t.me/el_amani" target="_blank">
-      <img src="https://www.cdnlogo.com/logos/t/39/telegram.svg" alt="telegram" style="margin-bottom: 5px; width: 25px; height: 25px;" />
+      <img src="https://www.cdnlogo.com/logos/t/39/telegram.svg" alt="telegram" style="width: 25px; height: 25px;" />
     </a>
 
 
