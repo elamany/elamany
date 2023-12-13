@@ -1,10 +1,10 @@
-### Hello there 👋 , I'm Amanuel T. 🧑🏽‍💻
+### <b>Hello there 👋 , I'm **Amanuel T.** 🧑🏽‍💻</b>
 
 <p align="center">
   I am a Software Engineer with expertise in Full Stack Web Development and Mobile App Development. I love building innovative and impactful applications that solve real-world problems.
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width =40px></picture> **About me**
+## **About me**
 <br>
 - ⚡ A passionate Self-taught Front-end & Mobile App developer
 - 📫 How to reach me:  [email](https://malto:ammanuael@gmail.com)
@@ -24,7 +24,7 @@
     <img src="https://www.cdnlogo.com/logos/s/90/sass.svg" width ="30" height="30">
 </p>
     
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50">
+## Let's Connect..! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50">
 <a href="https://linkedin.com/in/amanueltadele53" target="_blank" style="margin-right: 5px;">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" style="width: 25px; height: 25px;" />
     </a>
